@@ -1,0 +1,14 @@
+{
+    "name": "dahua666/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "huahua",
+            "email": "1448278460@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
